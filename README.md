@@ -61,7 +61,7 @@ Best resources to learn coding - either fast upskill or comprehensive learning g
     
     Availability: **Often Discounted/Sometimes Free**
     
- ### BOOKS:
+ ### Books:
  * **Automate the Boring Stuff with Python**
     
     https://automatetheboringstuff.com/2e/chapter0/
