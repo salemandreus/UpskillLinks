@@ -1,7 +1,7 @@
 Best resources to learn coding - either fast upskill or comprehensive learning goals
 
-### Computer Science:
-#### Video Courses:
+## Computer Science:
+### Video Courses:
 * **Crash Course Computer Science**
 
     https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
@@ -12,8 +12,8 @@ Best resources to learn coding - either fast upskill or comprehensive learning g
 
     Availability: **Free**
     
-### Artificial Intelligence:
-#### Video Courses:
+## Artificial Intelligence:
+### Video Courses:
 * **Crash Course Artificial Intelligence**
 
     https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
@@ -34,8 +34,8 @@ Best resources to learn coding - either fast upskill or comprehensive learning g
 
     Availability: **Free/Paid**
 
-### Video Game Development:
-#### Video Courses:
+## Video Game Development:
+### Video Courses:
 * **Make Unity Games** with **Brackeys**
 
     https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
@@ -47,23 +47,9 @@ Best resources to learn coding - either fast upskill or comprehensive learning g
 
     Availability: **Free**
     
-    
-### JQuery:
-#### Video Courses:
+## Python
 
-* **jQuery Tutorial for Beginners** at **LearnCode.academy**
-    
-    https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_
-    
-    _My review: Learn fast, pretty easy to follow._
-
-    Format: **Youtube video course**
-
-    Availability: **Free**
-    
-### Python
-
-#### Video Courses:
+### Video Courses:
  * **Automate the Boring Stuff with Python Programming**
     
     https://www.udemy.com/course/automate/
@@ -75,7 +61,7 @@ Best resources to learn coding - either fast upskill or comprehensive learning g
     
     Availability: **Often Discounted/Sometimes Free**
     
- #### BOOKS:
+ ### BOOKS:
  * **Automate the Boring Stuff with Python**
     
     https://automatetheboringstuff.com/2e/chapter0/
@@ -86,6 +72,17 @@ Best resources to learn coding - either fast upskill or comprehensive learning g
     Format: **Book** 
     
     Availability: **Free**
+  
+## JQuery:
+
+### Video Courses:
+
+* **jQuery Tutorial for Beginners** at **LearnCode.academy**
     
+    https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_
     
-    
+    _My review: Learn fast, pretty easy to follow._
+
+    Format: **Youtube video course**
+
+    Availability: **Free**
