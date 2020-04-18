@@ -7,18 +7,18 @@ Some of these were great for fast upskilling, others go more in-depth for compre
 
     https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
     
-    _My review: learn fast - also animates complex parts - accessible way to understand tricky concepts_
+    _Crash Course aims to be easy and accessible way to learn fast - they even use cute animations and story examples to illustrate tricky concepts. Often a great starting point for understanding contexts before you get more specific. It's also good material to fill basic foundational knowledge gaps._
     
     Format: **Youtube video course**
 
     Availability: **Free**
 
 ### Books:
-* **Code Complete**
+* **Code Complete, Second Edition**
 
     https://www.oreilly.com/library/view/code-complete-second/0735619670/
     
-    _My review: Considered the "Bible" of software development- despite this book being old the principles and practices are still considered highly relevant fundamentals of the industry today. It is comprehensive but written in a humorously relatable and easy to understand format._
+    _Considered the "Bible" of software development- despite this book being published in 2004 the principles and practices are still considered highly relevant fundamentals of the industry today. It is comprehensive but written in a humorously relatable and easy to understand format._
     
     Format: **Book**
 
@@ -30,7 +30,7 @@ Some of these were great for fast upskilling, others go more in-depth for compre
 
     https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
     
-    _My review: learn fast, accessible - also animates complex parts - accessible way to understand tricky concepts_
+    _Crash Course aims to be easy and accessible way to learn fast - they even use cute animations and story examples to illustrate tricky concepts. Often a great starting point for understanding contexts before you get more specific. It's also good material to fill basic foundational knowledge gaps._
     
     Format: **Youtube video course**
 
@@ -40,7 +40,7 @@ Some of these were great for fast upskilling, others go more in-depth for compre
 
     https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
     
-    _My review: Goes in-depth and quite technical for when you want to start digging into machine learning. I was able to follow the **[free] Introduction to Machine Learning** course with high school mathematics level understanding. Has quizzes to test yourself after lectures and soft deadline weekly submissions._
+    _Goes in-depth and quite technical for when you want to start digging into machine learning. I was able to follow the **[free] Introduction to Machine Learning** course - it is quite mathematical - managing with a high school mathematics level understanding though it might take some repetition. Has quizzes to test yourself after lectures and soft "deadline" weekly submissions._
     
     Format: **Coursera Video courses/quizzes/weekly submissions**
 
@@ -52,7 +52,7 @@ Some of these were great for fast upskilling, others go more in-depth for compre
 
     https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
     
-    _My review: learn fast - start from their basic **Make A Game** course, easy to understand, goes step by step.
+    _Learn fast - start from their basic **Make A Game** course, easy to understand, goes step by step.
     Gets more in depth with specific topic courses as well eg FPS, 2D Platformer, C# game development, etc building up to advanced._
     
     Format: **Youtube video course**
@@ -66,8 +66,8 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     
     https://www.udemy.com/course/automate/
     
-    _My review: Easy to understand, follows the book pretty closely. For programmers and non-programmers. 
-    Going through the course helps ensure you have a solid grasp of fundamentals. Recommended for foundational knowledge particularly if you find video an easier medium than books for comprehensive learning._
+    _Easy to understand, follows the book pretty closely. For programmers and non-programmers. 
+    Going through the course helps ensure you have a solid grasp of fundamentals. Recommended for foundational knowledge particularly if you find video an easier medium than books for learning._
     
     Format: [Udemy] **Short Video Course** 
     
@@ -78,8 +78,8 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     
     https://automatetheboringstuff.com/2e/chapter0/
     
-    _My review: Easy to understand, comprehensive. For programmers and non-programmers  
-    going through the book helps ensure you have a solid grasp of fundamentals. This book is highly recommended for foundational knowledge._
+    _Easy to understand introduction for programmers and non-programmers alike.  
+    Going through the book helps ensure you have a solid grasp of fundamentals. This book is highly recommended for foundational knowledge._
     
     Format: **Book** 
     
@@ -93,7 +93,7 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     
     https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_
     
-    _My review: Learn fast, pretty easy to follow._
+    _Learn Jquery really fast, easy to follow._
 
     Format: **Youtube video course**
 
