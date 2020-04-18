@@ -54,8 +54,8 @@ Best resources to learn coding - either fast upskill or comprehensive learning g
     
     https://www.udemy.com/course/automate/
     
-    _My review: Easy to understand, follows the book pretty closely. For programmers and non-programmers 
-    Going through the course helps ensure you have a solid grasp of fundamentals.  Recommended for foundational knowledge._
+    _My review: Easy to understand, follows the book pretty closely. For programmers and non-programmers. 
+    Going through the course helps ensure you have a solid grasp of fundamentals. Recommended for foundational knowledge particularly if you find video an easier medium than books for comprehensive learning._
     
     Format: [Udemy] **Short Video Course** 
     
