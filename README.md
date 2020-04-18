@@ -1,4 +1,4 @@
-Best resources to learn coding.
+Best resources I've found to learn coding.
 Some of these were great for fast upskilling, others go more in-depth for comprehensive learning goals - see review notes for brief summary of the teaching methodologies.
 
 ## Computer Science:
@@ -12,6 +12,17 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     Format: **Youtube video course**
 
     Availability: **Free**
+
+### Books:
+* **Code Complete**
+
+    https://www.oreilly.com/library/view/code-complete-second/0735619670/
+    
+    _My review: Considered the "Bible" of software development- despite this book being old the principles and practices are still considered highly relevant fundamentals of the industry today. It is comprehensive but written in a humorously relatable and easy to understand format._
+    
+    Format: **Book**
+
+    Availability: **Free 1 week trial in Oreily link**
     
 ## Artificial Intelligence:
 ### Video Courses:
