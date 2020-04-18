@@ -1,4 +1,5 @@
-Best resources to learn coding - either fast upskill or comprehensive learning goals
+Best resources to learn coding.
+Some of these were great for fast upskilling, others go more in-depth for comprehensive learning goals - see review notes for brief summary of the teaching methodologies.
 
 ## Computer Science:
 ### Video Courses:
