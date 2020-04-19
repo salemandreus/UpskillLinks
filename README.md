@@ -23,7 +23,33 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     Format: **Book**
 
     Availability: **Free 1 week trial in Oreily link**
+
+
+## Web Development:
+### How-To Resource Lists:
+* **How I Learned Front-end Web Development for Free in Five Days**
+
+    https://medium.com/@davesuperman/how-to-learn-front-end-web-development-for-free-in-5-days-25aa6021aa3b    
+
+    _A useful list of guides the author employed to learn the different aspects of front-end web development in 5 days._
     
+    Format: **How-To Resource Lists**
+
+    Availability: **Free**    
+
+### Video Courses:
+
+* **jQuery Tutorial for Beginners** at **LearnCode.academy**
+    
+    https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_
+    
+    _Learn Jquery really fast, easy to follow._
+
+    Format: **Youtube video course**
+
+    Availability: **Free**
+
+
 ## Artificial Intelligence:
 ### Video Courses:
 * **Crash Course Artificial Intelligence**
@@ -46,6 +72,7 @@ Some of these were great for fast upskilling, others go more in-depth for compre
 
     Availability: **Free/Paid**
 
+
 ## Video Game Development:
 ### Video Courses:
 * **Make Unity Games** with **Brackeys**
@@ -58,7 +85,8 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     Format: **Youtube video course**
 
     Availability: **Free**
-    
+
+
 ## Python
 
 ### Video Courses:
@@ -72,7 +100,7 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     Format: [Udemy] **Short Video Course** 
     
     Availability: **Often Discounted/Sometimes Free**
-    
+
  ### Books:
  * **Automate the Boring Stuff with Python**
     
@@ -83,18 +111,4 @@ Some of these were great for fast upskilling, others go more in-depth for compre
     
     Format: **Book** 
     
-    Availability: **Free**
-  
-## JQuery:
-
-### Video Courses:
-
-* **jQuery Tutorial for Beginners** at **LearnCode.academy**
-    
-    https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_
-    
-    _Learn Jquery really fast, easy to follow._
-
-    Format: **Youtube video course**
-
     Availability: **Free**
