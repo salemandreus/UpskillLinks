@@ -1,5 +1,13 @@
-Best resources I've found to learn coding.
-Some of these were great for fast upskilling, others go more in-depth for comprehensive learning goals - see review notes for brief summary of the teaching methodologies.
+# Resource Links to Learn Software Development 
+These are the best learning resources I've found to date.
+
+Selection criteria - resource has at least one of the following aspects:
+Either:
+- **For absolute beginners:** Ease of understanding/accessibility
+- **For professionals** fast upskill in a section
+- **For growing intermediates/seniors** comprehensive learning.
+
+See review notes for brief summary of the teaching methodologies.
 
 ## Computer Science:
 ### Video Courses:
