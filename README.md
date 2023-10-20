@@ -97,18 +97,6 @@ See review notes for brief summary of the teaching methodologies.
 
 ## Python
 
-### Video Courses:
- * **Automate the Boring Stuff with Python Programming**
-    
-    https://www.udemy.com/course/automate/
-    
-    _Easy to understand, follows the book pretty closely. For programmers and non-programmers. 
-    Going through the course helps ensure you have a solid grasp of fundamentals. Recommended for foundational knowledge particularly if you find video an easier medium than books for learning._
-    
-    Format: [Udemy] **Short Video Course** 
-    
-    Availability: **Often Discounted/Sometimes Free**
-
  ### Books:
  * **Automate the Boring Stuff with Python**
     
@@ -120,3 +108,31 @@ See review notes for brief summary of the teaching methodologies.
     Format: **Book** 
     
     Availability: **Free**
+
+    **Also Available:** in a Udemy course (see below).
+   
+### Video Courses:
+ * **Automate the Boring Stuff with Python Programming**
+    
+    A [Udemy video Course](https://www.udemy.com/course/automate/) based off the books. This is unfortunately not free, but Udemy do have frequent discount sales to look out for.
+    
+    _Easy to understand, follows the book pretty closely. For programmers and non-programmers. 
+    Going through the course helps ensure you have a solid grasp of fundamentals. Recommended for foundational knowledge particularly if you find video an easier medium than books for learning._
+    
+    Format: [Udemy] **Short Video Course** 
+    
+    Availability: **Often Discounted/Sometimes Free**
+
+
+## Django:
+#### Starting Out With Django:
+- **The Official Django docs** and Django tutorial are great and very beginner-friendly! 
+The Django site has all different levels of explanation, from a quick start to a tutorial to topic explanations to more in-depth and detailed documentation. They have links to the different section and an explanation of each [here](https://docs.djangoproject.com/en/4.2/#how-the-documentation-is-organized).
+
+#### Getting Production-Ready: 
+When you get comfortable enough with Django that you want to set up a production-ready (ie live) site you'll want to take a look at these:
+- **Setting up a Postgres DB as your Django DB**: See this [guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04).
+
+- **Setting up Environment variables in Django:**  so you don't commit sensitive data! Here's a handy explainer [article](https://alicecampkin.medium.com/how-to-set-up-environment-variables-in-django-f3c4db78c55f).
+
+**Templates Available Here:** I made a Django settings.py example showing a configuration for PostgresSQL DB and the integration of environment variables. You can find it in the Django folder in [this repo](https://github.com/salemandreus/salem-setup).
