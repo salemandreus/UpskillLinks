@@ -3,12 +3,14 @@ These are the best learning resources I've found to date.
 
 Selection criteria - resource has at least one of the following aspects:
 Either:
-- **For absolute beginners:** Ease of understanding/accessibility
-- **For professionals** fast upskill in a section
-- **For growing intermediates/seniors** comprehensive learning.
+- **For absolute beginners:** - ease of understanding/accessibility
+- **For professionals** - fast upskill in a section
+- **For growing intermediates/seniors** - comprehensive learning.
 
 Also:
-- Where possible I lean towards **free** resources.
+- Prioritising **free** resources.
+- Aiming for **multiple formats** for learning (video, tutorial, etc).
+- **Simple explanations** with **demonstrations** (for <ins>written formats</ins>: this means **readability** and use of **examples**).
 
 See review notes for brief summary of the teaching methodologies.
 
