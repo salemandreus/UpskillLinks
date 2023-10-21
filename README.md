@@ -7,6 +7,9 @@ Either:
 - **For professionals** fast upskill in a section
 - **For growing intermediates/seniors** comprehensive learning.
 
+Also:
+- Where possible I lean towards **free** resources.
+
 See review notes for brief summary of the teaching methodologies.
 
 ## Computer Science:
@@ -118,21 +121,53 @@ See review notes for brief summary of the teaching methodologies.
     
     _Easy to understand, follows the book pretty closely. For programmers and non-programmers. 
     Going through the course helps ensure you have a solid grasp of fundamentals. Recommended for foundational knowledge particularly if you find video an easier medium than books for learning._
-    
-    Format: [Udemy] **Short Video Course** 
-    
-    Availability: **Often Discounted/Sometimes Free**
 
+    Format: **Udemy video course**
+
+    Availability: **Paid** (often discounted)
+
+    Duration: 9.5h
 
 ## Django:
 #### Starting Out With Django:
-- **The Official Django docs** and Django tutorial are great and very beginner-friendly! 
+* **The Official Django docs** and Django tutorial are great and very beginner-friendly! 
 The Django site has all different levels of explanation, from a quick start to a tutorial to topic explanations to more in-depth and detailed documentation. They have links to the different section and an explanation of each [here](https://docs.djangoproject.com/en/4.2/#how-the-documentation-is-organized).
+
+    Format: **Official Docs** - But very user-friendly!
+
+    Availability: **Free**
+
 
 #### Getting Production-Ready: 
 When you get comfortable enough with Django that you want to set up a production-ready (ie live) site you'll want to take a look at these:
-- **Setting up a Postgres DB as your Django DB**: See this [guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04).
+* **Setting up a Postgres DB as your Django DB**: See this [guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04).
 
-- **Setting up Environment variables in Django:**  so you don't commit sensitive data! Here's a handy explainer [article](https://alicecampkin.medium.com/how-to-set-up-environment-variables-in-django-f3c4db78c55f).
+    Format: **Online Guide**
 
-**Templates Available Here:** I made a Django settings.py example showing a configuration for PostgresSQL DB and the integration of environment variables. You can find it in the Django folder in [this repo](https://github.com/salemandreus/salem-setup).
+    Availability: **Free**
+
+* **Setting up Environment variables in Django:**  so you don't commit sensitive data! Here's a handy explainer [article](https://alicecampkin.medium.com/how-to-set-up-environment-variables-in-django-f3c4db78c55f).
+    Format: **Short Article/Guide**
+
+    Availability: **Free**
+
+   <u>Note</u>: **Templates Available Here:** I made a Django settings.py example showing a configuration for PostgresSQL DB and the integration of environment variables. You can find it in the Django folder in [this repo](https://github.com/salemandreus/salem-setup).
+
+   Format: **Github Code Repo**
+
+   Availability: **Free**
+
+
+## Cloud and DevSecOps/DevOps
+### Basic Cloud Fundamentals:
+
+**For Complete Beginners:**
+
+* [Oracle Cloud Infrastructure- Part 1 ( Fundamentals of Cloud)](https://www.udemy.com/course/cloud-fundamentals/) - This course describes IAAS, PAAS, SAAS and compares Oracle vs AWS basic concepts at a complete beginner level.
+It's therefore useful even if you're not planning to use Oracle or AWS but just want to understand Cloud at a high level.
+
+    Format: **Udemy video course**
+
+    Availability: **Free**
+
+    Duration: 1.5h
