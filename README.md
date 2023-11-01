@@ -22,7 +22,7 @@ See review notes for brief summary of the teaching methodologies.
     
     _Crash Course aims to be easy and accessible way to learn fast - they even use cute animations and story examples to illustrate tricky concepts. Often a great starting point for understanding contexts before you get more specific. It's also good material to fill basic foundational knowledge gaps._
     
-    Format: **Youtube video course**
+    <br>Format: **Youtube video course**
 
     Availability: **Free**
 
@@ -33,7 +33,7 @@ See review notes for brief summary of the teaching methodologies.
     
     _Considered the "Bible" of software development- despite this book being published in 2004 the principles and practices are still considered highly relevant fundamentals of the industry today. It is comprehensive but written in a humorously relatable and easy to understand format._
     
-    Format: **Book**
+    <br>Format: **Book**
 
     Availability: **Free 1 week trial in Oreily link**
 
@@ -46,7 +46,7 @@ See review notes for brief summary of the teaching methodologies.
 
     _A useful list of guides the author employed to learn the different aspects of front-end web development in 5 days._
     
-    Format: **How-To Resource Lists**
+    <br>Format: **How-To Resource Lists**
 
     Availability: **Free**    
 
@@ -58,17 +58,26 @@ See review notes for brief summary of the teaching methodologies.
     
     _Learn Jquery really fast, easy to follow._
 
-    Format: **Youtube video course**
+    <br>Format: **Youtube video course**
 
     Availability: **Free**
 
-## Javascript - 
+## Javascript 
 
-* **Beginning to Intermediate**
-  [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript/)
-  _Useful as it goes sufficiently in-depth on a lot of foundational concepts like the differences between programming languages. Also has a quiz after many of the lessons so you can test yourself._
+* **Beginner to Intermediate Level**
+  <br>[Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript/)
+  <br>Useful as it goes sufficiently in-depth on a lot of foundational concepts like the differences between programming languages. Also has a quiz after many of the lessons so you can test yourself.
+  
+  _**Important Notes**: this course was created in [2014](https://www.udemy.com/api-2.0/courses/217000/?fields[course]=title,url,created) so it pre-dates the release of ES6. Therefore **it doesn't incorporate some important changes** like now-recommended block-level `let` and `const` variables (it uses the unrecommended `var`), `promises` and ES8's introduction of `async`/`await`._
+  
+  _**However I STRONGLY recommend you <ins>do this course FIRST</ins>** (it's only 4 1/2 hours) before tackling a brief 1-2 hour refresher course on ES 6-8 improvements on Javascript, and simply put a pin in this fact while you do this course. This is one of those crawl-before-you-can-walk scenarios as Javascript is quite unique among programming languages. From my own struggles with Javascript I found it necessary to go back to the basics of Javascript **first** in order to appreciate the changes and the contexts in which they were made._
+<br><br>_Explaining this **important context** for Javascript and specifically **how it differs from other languages** is something this course does *excellently*, and thus **lays crucially important foundations for understanding**. You can then easily build apon these with the updated syntax when you **understand what is going on under the hood, how Javascript works and WHY these additions were needed**._
+<br><br>_Remember, despite tech being a fast-changing industry, when it comes to understanding foundations and fundamentals, the most recent resources may not always be the best, (which is why [*Code Complete (Second Edition)*](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) is still widely considered one of the most crucially important resources of learning proper software development, despite it being written in 2004.)_
 
-  Format: **Udemy video course**
+
+  <br>Format: **Udemy video course**
+  
+  Duration: **4 1/2 hours**
   
   Availability: **Free**
 
@@ -81,9 +90,9 @@ See review notes for brief summary of the teaching methodologies.
     
     _Crash Course aims to be easy and accessible way to learn fast - they even use cute animations and story examples to illustrate tricky concepts. Often a great starting point for understanding contexts before you get more specific. It's also good material to fill basic foundational knowledge gaps._
     
-    Format: **Youtube video course**
+    <br>Format: **Youtube video course**
 
-    Availability: **Free**
+    Availability: **Free**<br><br>
     
 * **Machine Learning Andrew Ng Courses**
 
@@ -91,7 +100,7 @@ See review notes for brief summary of the teaching methodologies.
     
     _Goes in-depth and quite technical for when you want to start digging into machine learning. I was able to follow the **[free] Introduction to Machine Learning** course - it is quite mathematical - managing with a high school mathematics level understanding though it might take some repetition. Has quizzes to test yourself after lectures and soft "deadline" weekly submissions._
     
-    Format: **Coursera Video courses/quizzes/weekly submissions**
+    <br>Format: **Coursera Video courses/quizzes/weekly submissions**
 
     Availability: **Free/Paid**
 
@@ -105,7 +114,7 @@ See review notes for brief summary of the teaching methodologies.
     _Learn fast - start from their basic **Make A Game** course, easy to understand, goes step by step.
     Gets more in depth with specific topic courses as well eg FPS, 2D Platformer, C# game development, etc building up to advanced._
     
-    Format: **Youtube video course**
+    <br>Format: **Youtube video course**
 
     Availability: **Free**
 
@@ -120,7 +129,7 @@ See review notes for brief summary of the teaching methodologies.
     _Easy to understand introduction for programmers and non-programmers alike.  
     Going through the book helps ensure you have a solid grasp of fundamentals. This book is highly recommended for foundational knowledge._
     
-    Format: **Book** 
+    <br>Format: **Book** 
     
     Availability: **Free**
 
@@ -134,7 +143,7 @@ See review notes for brief summary of the teaching methodologies.
     _Easy to understand, follows the book pretty closely. For programmers and non-programmers. 
     Going through the course helps ensure you have a solid grasp of fundamentals. Recommended for foundational knowledge particularly if you find video an easier medium than books for learning._
 
-    Format: **Udemy video course**
+    <br>Format: **Udemy video course**
 
     Availability: **Paid** (often discounted)
 
@@ -145,7 +154,7 @@ See review notes for brief summary of the teaching methodologies.
 * **The Official Django docs** and Django tutorial are great and very beginner-friendly! 
 The Django site has all different levels of explanation, from a quick start to a tutorial to topic explanations to more in-depth and detailed documentation. They have links to the different section and an explanation of each [here](https://docs.djangoproject.com/en/4.2/#how-the-documentation-is-organized).
 
-    Format: **Official Docs** - But very user-friendly!
+    <br>Format: **Official Docs** - But very user-friendly!
 
     Availability: **Free**
 
@@ -154,18 +163,19 @@ The Django site has all different levels of explanation, from a quick start to a
 When you get comfortable enough with Django that you want to set up a production-ready (ie live) site you'll want to take a look at these:
 * **Setting up a Postgres DB as your Django DB**: See this [guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04).
 
-    Format: **Online Guide**
+    <br>Format: **Online Guide**
 
     Availability: **Free**
 
 * **Setting up Environment variables in Django:**  so you don't commit sensitive data! Here's a handy explainer [article](https://alicecampkin.medium.com/how-to-set-up-environment-variables-in-django-f3c4db78c55f).
-    Format: **Short Article/Guide**
+  
+    <br>Format: **Short Article/Guide**
 
     Availability: **Free**
 
    <u>Note</u>: **Templates Available Here:** I made a Django settings.py example showing a configuration for PostgresSQL DB and the integration of environment variables. You can find it in the Django folder in [this repo](https://github.com/salemandreus/salem-setup).
 
-   Format: **Github Code Repo**
+   <br>Format: **Github Code Repo**
 
    Availability: **Free**
 
@@ -178,7 +188,7 @@ When you get comfortable enough with Django that you want to set up a production
 * [Oracle Cloud Infrastructure- Part 1 ( Fundamentals of Cloud)](https://www.udemy.com/course/cloud-fundamentals/) - This course describes IAAS, PAAS, SAAS and compares Oracle vs AWS basic concepts at a complete beginner level.
 It's therefore useful even if you're not planning to use Oracle or AWS but just want to understand Cloud at a high level.
 
-    Format: **Udemy video course**
+    <br>Format: **Udemy video course**
 
     Availability: **Free**
 
