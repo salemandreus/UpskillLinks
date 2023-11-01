@@ -66,7 +66,7 @@ See review notes for brief summary of the teaching methodologies.
 
 * **Beginning to Intermediate**
   [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript/)
-  _Useful as it goes sufficiently in-depth on a lot of foundational concepts like the differences between programming languages. Also has a quiz after each lesson so you can test yourself._
+  _Useful as it goes sufficiently in-depth on a lot of foundational concepts like the differences between programming languages. Also has a quiz after many of the lessons so you can test yourself._
 
   Format: **Udemy video course**
   
