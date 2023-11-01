@@ -18,7 +18,7 @@ See review notes for brief summary of the teaching methodologies.
 ### Video Courses:
 * **Crash Course Computer Science**
 
-    https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+    [Youtube Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
     
     _Crash Course aims to be easy and accessible way to learn fast - they even use cute animations and story examples to illustrate tricky concepts. Often a great starting point for understanding contexts before you get more specific. It's also good material to fill basic foundational knowledge gaps._
     
@@ -29,7 +29,7 @@ See review notes for brief summary of the teaching methodologies.
 ### Books:
 * **Code Complete, Second Edition**
 
-    https://www.oreilly.com/library/view/code-complete-second/0735619670/
+    [Book Link](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
     
     _Considered the "Bible" of software development- despite this book being published in 2004 the principles and practices are still considered highly relevant fundamentals of the industry today. It is comprehensive but written in a humorously relatable and easy to understand format._
     
@@ -42,7 +42,7 @@ See review notes for brief summary of the teaching methodologies.
 ### How-To Resource Lists:
 * **How I Learned Front-end Web Development for Free in Five Days**
 
-    https://medium.com/@davesuperman/how-to-learn-front-end-web-development-for-free-in-5-days-25aa6021aa3b    
+    [Article](https://medium.com/@davesuperman/how-to-learn-front-end-web-development-for-free-in-5-days-25aa6021aa3b)
 
     _A useful list of guides the author employed to learn the different aspects of front-end web development in 5 days._
     
@@ -54,7 +54,7 @@ See review notes for brief summary of the teaching methodologies.
 
 * **jQuery Tutorial for Beginners** at **LearnCode.academy**
     
-    https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_
+    [Youtube Playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
     
     _Learn Jquery really fast, easy to follow._
 
@@ -64,8 +64,8 @@ See review notes for brief summary of the teaching methodologies.
 
 ## Javascript 
 
-* **Beginner to Intermediate Level**
-  <br>[Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript/)
+* **Learn to Program in Javascript: Beginner to Pro**
+  <br>[Udemy Course](https://www.udemy.com/course/programming-in-javascript/)
   <br>Useful as it goes sufficiently in-depth on a lot of foundational concepts like the differences between programming languages. Also has a quiz after many of the lessons so you can test yourself.
   
   _**Important Notes**: this course was created in [2014](https://www.udemy.com/api-2.0/courses/217000/?fields[course]=title,url,created) so it pre-dates the release of ES6. Therefore **it doesn't incorporate some important changes** like now-recommended block-level `let` and `const` variables (it uses the unrecommended `var`), `promises` and ES8's introduction of `async`/`await`._
@@ -86,7 +86,7 @@ See review notes for brief summary of the teaching methodologies.
 ### Video Courses:
 * **Crash Course Artificial Intelligence**
 
-    https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
+    [Youtube Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
     
     _Crash Course aims to be easy and accessible way to learn fast - they even use cute animations and story examples to illustrate tricky concepts. Often a great starting point for understanding contexts before you get more specific. It's also good material to fill basic foundational knowledge gaps._
     
@@ -96,11 +96,11 @@ See review notes for brief summary of the teaching methodologies.
     
 * **Machine Learning Andrew Ng Courses**
 
-    https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
+    [Youtube Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
     
     _Goes in-depth and quite technical for when you want to start digging into machine learning. I was able to follow the **[free] Introduction to Machine Learning** course - it is quite mathematical - managing with a high school mathematics level understanding though it might take some repetition. Has quizzes to test yourself after lectures and soft "deadline" weekly submissions._
     
-    <br>Format: **Coursera Video courses/quizzes/weekly submissions**
+    <br>Format: **Youtube/Coursera Video courses with quizzes and weekly submissions**
 
     Availability: **Free/Paid**
 
@@ -109,7 +109,7 @@ See review notes for brief summary of the teaching methodologies.
 ### Video Courses:
 * **Make Unity Games** with **Brackeys**
 
-    https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+    [Youtube Playlist](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
     
     _Learn fast - start from their basic **Make A Game** course, easy to understand, goes step by step.
     Gets more in depth with specific topic courses as well eg FPS, 2D Platformer, C# game development, etc building up to advanced._
@@ -124,7 +124,7 @@ See review notes for brief summary of the teaching methodologies.
  ### Books:
  * **Automate the Boring Stuff with Python**
     
-    https://automatetheboringstuff.com/2e/chapter0/
+    [Free Book](https://automatetheboringstuff.com/2e/chapter0/)
     
     _Easy to understand introduction for programmers and non-programmers alike.  
     Going through the book helps ensure you have a solid grasp of fundamentals. This book is highly recommended for foundational knowledge._
