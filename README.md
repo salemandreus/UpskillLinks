@@ -5,7 +5,7 @@ Selection criteria - resource has at least one of the following aspects:
 Either:
 - **For absolute beginners:** - ease of understanding/accessibility
 - **For professionals** - fast upskill in a section
-- **For growing intermediates/seniors** - comprehensive learning.
+- **For growing junior and intermediate developers** - comprehensive learning.
 
 Also:
 - Prioritising **free** resources.
@@ -61,6 +61,16 @@ See review notes for brief summary of the teaching methodologies.
     Format: **Youtube video course**
 
     Availability: **Free**
+
+## Javascript - 
+
+* **Beginning to Intermediate**
+  [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript/)
+  _Useful as it goes sufficiently in-depth on a lot of foundational concepts like the differences between programming languages. Also has a quiz after each lesson so you can test yourself._
+
+  Format: **Udemy video course**
+  
+  Availability: **Free**
 
 
 ## Artificial Intelligence:
