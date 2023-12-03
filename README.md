@@ -14,6 +14,8 @@ Also:
 
 See review notes for brief summary of the teaching methodologies.
 
+<br>
+
 ## Computer Science:
 ### Video Courses:
 * **Crash Course Computer Science**
@@ -26,6 +28,8 @@ See review notes for brief summary of the teaching methodologies.
 
     Availability: **Free**
 
+<br>
+
 ### Books:
 * **Code Complete, Second Edition**
 
@@ -37,6 +41,7 @@ See review notes for brief summary of the teaching methodologies.
 
     Availability: **Free 1 week trial in Oreily link**
 
+<br>
 
 ## Web Development:
 ### How-To Resource Lists:
@@ -50,6 +55,8 @@ See review notes for brief summary of the teaching methodologies.
 
     Availability: **Free**    
 
+<br>
+
 ### Video Courses:
 
 * **jQuery Tutorial for Beginners** at **LearnCode.academy**
@@ -61,6 +68,8 @@ See review notes for brief summary of the teaching methodologies.
     <br>Format: **Youtube video course**
 
     Availability: **Free**
+
+<br>
 
 ## Javascript 
 
@@ -81,6 +90,7 @@ See review notes for brief summary of the teaching methodologies.
   
   Availability: **Free**
 
+<br>
 
 ## Artificial Intelligence:
 ### Video Courses:
@@ -93,7 +103,8 @@ See review notes for brief summary of the teaching methodologies.
     <br>Format: **Youtube video course**
 
     Availability: **Free**<br><br>
-    
+
+
 * **Machine Learning Andrew Ng Courses**
 
     [Youtube Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
@@ -104,6 +115,7 @@ See review notes for brief summary of the teaching methodologies.
 
     Availability: **Free/Paid**
 
+<br>
 
 ## Video Game Development:
 ### Video Courses:
@@ -118,6 +130,7 @@ See review notes for brief summary of the teaching methodologies.
 
     Availability: **Free**
 
+<br>
 
 ## Python
 
@@ -134,7 +147,9 @@ See review notes for brief summary of the teaching methodologies.
     Availability: **Free**
 
     **Also Available:** in a Udemy course (see below).
-   
+
+<br>
+  
 ### Video Courses:
  * **Automate the Boring Stuff with Python Programming**
     
@@ -149,15 +164,28 @@ See review notes for brief summary of the teaching methodologies.
 
     Duration: 9.5h
 
+<br>
+
 ## Django:
 #### Starting Out With Django:
+
+* This Free Udemy Course **'Try Django 2.2 - Web Development with Python 3.6+' is very clear for beginners and easy to follow, and you get to build a fun blog site in the process!
+I found there wasn't much difference at all using Django 4.2.7 and Python 3.12, so the course, which seems to have been created in 2019, has aged well!
+You can find it [here](https://www.udemy.com/course/try-django-2-2-python-web-development/)
+
+    <br>Format: **Udemy Course**
+
+    Availability: **Free**
+<br>
+
+
 * **The Official Django docs** and Django tutorial are great and very beginner-friendly! 
 The Django site has all different levels of explanation, from a quick start to a tutorial to topic explanations to more in-depth and detailed documentation. They have links to the different section and an explanation of each [here](https://docs.djangoproject.com/en/4.2/#how-the-documentation-is-organized).
 
     <br>Format: **Official Docs** - But very user-friendly!
 
     Availability: **Free**
-
+<br>
 
 #### Getting Production-Ready: 
 When you get comfortable enough with Django that you want to set up a production-ready (ie live) site you'll want to take a look at these:
@@ -166,6 +194,7 @@ When you get comfortable enough with Django that you want to set up a production
     <br>Format: **Online Guide**
 
     Availability: **Free**
+<br>
 
 * **Setting up Environment variables in Django:**  so you don't commit sensitive data! Here's a handy explainer [article](https://alicecampkin.medium.com/how-to-set-up-environment-variables-in-django-f3c4db78c55f).
   
@@ -179,6 +208,7 @@ When you get comfortable enough with Django that you want to set up a production
 
    Availability: **Free**
 
+<br>
 
 ## Cloud and DevSecOps/DevOps
 ### Basic Cloud Fundamentals:
